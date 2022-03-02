@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x30617766B2dE4dD191418b8979f3DB139C08448B",
+  "SCAN_LINK": "https://polygonscan.com/address/0x30617766b2de4dd191418b8979f3db139c08448b",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Modern Art Ferrer",
+  "SYMBOL": "MDRN",
+  "MAX_SUPPLY": 100,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Limzoink",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/modern-art-ferrer-v2",
+  "SHOW_BACKGROUND": true
+}
